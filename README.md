@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/pedrocrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lailamt&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailamt&layout=compact&langs_count=7&theme=ocean_dark"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocrs&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocrs&layout=compact&langs_count=7&theme=ocean_dark"/>  
 </div>
 <div style="display: inline_block"><br>
   
